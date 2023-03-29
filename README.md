@@ -2,7 +2,7 @@
 
 ![Rivaan's github stats](https://github-readme-stats.vercel.app/api?username=rivaanranawat&show_icons=true&theme=react)
 ## 🚀 About Me
-I'm a 17 year old coding enthusiast with some knowledge in App and Web Development!
+I'm an 18 year old coding enthusiast with some knowledge in App and Web Development!
 
 
 ## 🔗 Links
