@@ -14,4 +14,4 @@ I'm an 18 year old coding enthusiast with some knowledge in App and Web Developm
 
 
 ## 🛠 Skills
-Flutter, Next, React, Dart, Javascript, TypeScript, Python, HTML, CSS, Firebase, Node, MongoDB, Prisma
+Flutter, Next, React, Dart, Javascript, TypeScript, Python, HTML, CSS, Firebase, Node, MongoDB, Prisma, SQL
