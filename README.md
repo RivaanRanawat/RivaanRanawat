@@ -2,7 +2,7 @@
 
 ![Rivaan's github stats](https://github-readme-stats.vercel.app/api?username=rivaanranawat&show_icons=true&theme=react)
 ## 🚀 About Me
-I'm a 19 year old coding enthusiast with some knowledge in CS!
+I'm a 20 year old coding enthusiast with some knowledge in CS!
 
 Prev. SWE intern @NVIDIA
 
