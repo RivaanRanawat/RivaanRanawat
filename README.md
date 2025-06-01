@@ -6,7 +6,8 @@ I'm a 20 year old coding enthusiast with some knowledge in CS!
 
 Prev. SWE intern @NVIDIA
 
-Incoming SWE intern @Meta & @NVIDIA
+SWE intern @Meta 
+Incoming intern @NVIDIA
 
 
 ## 🔗 Links
