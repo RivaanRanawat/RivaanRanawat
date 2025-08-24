@@ -4,10 +4,9 @@
 ## 🚀 About Me
 I'm a 20 year old coding enthusiast with some knowledge in CS!
 
-Prev. SWE intern @NVIDIA
+Prev. SWE intern @NVIDIA (Hardware Infrastructure), @Meta (Recommendation Systems)
 
-SWE intern @Meta 
-Incoming intern @NVIDIA
+Currently: Returning SWE intern @NVIDIA (AI/ML Infrastructure)
 
 
 ## 🔗 Links
