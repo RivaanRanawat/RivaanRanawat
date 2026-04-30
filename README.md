@@ -2,7 +2,7 @@
 
 ![Rivaan's github stats](https://github-readme-stats.vercel.app/api?username=rivaanranawat&show_icons=true&theme=react)
 ## 🚀 About Me
-I'm a 20 year old CS enthusiast!
+I'm a 21 year old CS enthusiast!
 
 Prev. SWE intern @NVIDIA (Hardware Infrastructure), @Meta (Recommendation Systems), @NVIDIA again (ML Infrastructure)
 
