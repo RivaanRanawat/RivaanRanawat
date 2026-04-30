@@ -4,7 +4,7 @@
 ## 🚀 About Me
 I'm a 21 year old CS enthusiast!
 
-Prev. SWE intern @NVIDIA (Hardware Infrastructure), @Meta (Recommendation Systems), @NVIDIA again (ML Infrastructure)
+SWE Intern @Meta (Planetary scale Stream Processing). Prev. SWE intern @NVIDIA (Hardware Infrastructure), @Meta (Recommendation Systems), @NVIDIA again (ML Infrastructure)
 
 ## 🔗 Links
 [![youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RivaanRanawat)
